@@ -1,0 +1,24 @@
+button{
+  background-color: black;
+  color:white;
+  font-weight:bold;
+  padding-top:8px;
+  padding-bottom: 8px;
+  padding-left:15px;
+  padding-right: 15px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 12px;
+  margin-left: 18px;
+}
+button:hover{
+  background-color:white;
+  color:black;
+  text-shadow: 10px 10px 4px black;
+}
+button:active{
+  background-color: aquamarine;
+  color:black;
+  text-decoration: underline;
+  text-shadow: none;
+}
